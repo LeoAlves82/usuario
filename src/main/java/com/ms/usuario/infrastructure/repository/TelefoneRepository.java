@@ -1,6 +1,7 @@
 package com.ms.usuario.infrastructure.repository;
 
-import com.leonardo.aprendendospring.infraestructure.entity.Telefone;
+
+import com.ms.usuario.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
